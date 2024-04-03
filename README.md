@@ -19,7 +19,7 @@ We've divided the project into 4 groups, so each one focuses on one Iberian lang
 
 | Author               | Assigned language                |
 |----------------------|------------------------------------|
-| [Eurídice Corbí]    | Catalan                            |
+| [Eurídice Corbí](https://github.com/ecorver)    | Catalan                            |
 | [Natalia Hernández]  | Spanish                            |
 | [Nicolás Nebot]      | Catalan                            |
 | [Wojciech Neuman](https://github.com/WojciechNeuman) | English |
