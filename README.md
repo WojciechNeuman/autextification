@@ -25,5 +25,5 @@ We've divided the project into 4 groups, so each one focuses on one Iberian lang
 | [Wojciech Neuman](https://github.com/WojciechNeuman) | English |
 | [Aitana Sebastià](https://github.com/aitanarules)    | Basque  |
 | [Carlos Torregrosa]  | Spanish                            |
-| [José Valero]        | Basque                             |
+| [Jose Valero](https://github.com/jose-valero-sanchis)| Basque |
 
