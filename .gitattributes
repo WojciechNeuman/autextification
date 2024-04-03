@@ -1,0 +1,4 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+Windows/bin/myBigFile.dll filter=lfs diff=lfs merge=lfs -text
+data/competition_2024/subtask1.csv filter=lfs diff=lfs merge=lfs -text
+data/competition_2024/subtask2.csv filter=lfs diff=lfs merge=lfs -text
