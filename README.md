@@ -21,9 +21,9 @@ We've divided the project into 4 groups, so each one focuses on one Iberian lang
 |----------------------|------------------------------------|
 | [Eurídice Corbí](https://github.com/ecorver)    | Catalan                            |
 | [Natalia Hernández]  | Spanish                            |
-| [Nicolás Nebot]      | Catalan                            |
+| [Nicolás Nebot]      | Portuguse                            |
 | [Wojciech Neuman](https://github.com/WojciechNeuman) | English |
-| [Aitana Sebastià](https://github.com/aitanarules)    | Basque  |
+| [Aitana Sebastià](https://github.com/aitanarules)    | Galician |
 | [Carlos Torregrosa]  | Spanish                            |
 | [Jose Valero](https://github.com/jose-valero-sanchis)| Basque |
 
