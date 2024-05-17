@@ -1,6 +1,6 @@
 # Autextification
 
-Shouldn't we have the right to know who wrote what we read? The truth is that it's becoming increasingly challenging to distinguish between human-written and AI-generated texts. This project is about building a robust AI detector at Iberian languages, which include `Spanish`, `Catalan`, `Basque`, and `English` (the one from Gibraltar). This is also the repository where we keep track of our progress in the **autextification** contest.
+Shouldn't we have the right to know who wrote what we read? The truth is that it's becoming increasingly challenging to distinguish between human-written and AI-generated texts. This project is about building a robust AI detector at Iberian languages, which include `Spanish`, `Catalan`, `Basque`,  `Galician`,  `Portuguese` and `English` (the one from Gibraltar). This is also the repository where we keep track of our progress in the **autextification** contest.
 
 ## What is autextification?
 
