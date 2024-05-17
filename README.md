@@ -13,14 +13,17 @@ IberAuTexTification is the second version of the AuTexTification at IberLEF 2023
 In the folder where you want to have our repository, run the following line:
 > git lfs clone https://github.com/WojciechNeuman/autextification.git
 
+## How should I move in this repository?
+We are keeping the general code (one for each of the six languages) and then some specifics arrangements for each language in each branch. In the future we will merge all of them.
+
 ## Who is contributing to this repository?
 
 We've divided the project into 4 groups, so each one focuses on one Iberian language.
 
 | Author               | Assigned language                |
 |----------------------|------------------------------------|
-| [Eurídice Corbí](https://github.com/ecorver)    | Catalan                            |
-| [Natalia Hernández]  | Spanish                            |
+| [Eurídice Corbí](https://github.com/euricv)    | Catalan                            |
+| [Natalia Hernández](https://github.com/cometahhalley) | Spanish                            |
 | [Nicolás Nebot]      | Catalan                            |
 | [Wojciech Neuman](https://github.com/WojciechNeuman) | English |
 | [Aitana Sebastià](https://github.com/aitanarules)    | Basque  |
